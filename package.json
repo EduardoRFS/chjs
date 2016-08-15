@@ -1,0 +1,26 @@
+{
+  "name": "chjs",
+  "version": "0.0.2",
+  "description": "A Chatango API for node",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: Sorry test is for jerks \" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoRFS/chjs.git"
+  },
+  "author": "EduardoRFS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EduardoRFS/chjs/issues"
+  },
+  "homepage": "https://github.com/EduardoRFS/chjs#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "debug": "^2.2.0",
+    "he": "^1.1.0",
+    "md5": "^2.1.0",
+    "require-dir": "^0.3.0"
+  }
+}
