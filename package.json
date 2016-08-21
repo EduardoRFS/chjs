@@ -19,8 +19,13 @@
   "dependencies": {
     "bluebird": "^3.4.1",
     "debug": "^2.2.0",
+    "file-stream-rotator": "0.0.7",
     "he": "^1.1.0",
     "md5": "^2.1.0",
-    "require-dir": "^0.3.0"
+    "require-dir": "^0.3.0",
+    "rotating-file-stream": "^1.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^3.3.1"
   }
 }
